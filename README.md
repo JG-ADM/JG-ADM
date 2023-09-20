@@ -4,8 +4,8 @@
 
 <h4>
 </ul>
-<li> Java </li>
-<li> Python </li>
-<li> C++ </li>
+<li> Java 😎</li>
+<li> Python 💋</li>
+<li> C++ 😷</li>
 </ul>
 </h4>
