@@ -3,8 +3,8 @@
 <h3>Linguagens de Programação<h3>
 
 <h4>
-<li> Java <li>
-<li> Python <li>
-<li> C++ <li>
+<li> Java 
+<li> Python 
+<li> C++ 
 </li>ul
 </h4>
